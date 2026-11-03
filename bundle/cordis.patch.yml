@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-scene-workbench
+      name: '@local/dsh-scene-workbench'
+      config: {}
